@@ -9,3 +9,10 @@ The library does the following:
     6. Search for a node in the link list.
     7. Reverse the link list.
     8. Print the link list.
+    
+To compile:
+
+    gcc -o linklist ll.c -g
+
+Run:
+    ./linklist

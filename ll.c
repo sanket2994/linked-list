@@ -154,7 +154,7 @@ int main(){
                 "6. Search\n"
                 "7. reverse\n"
                 "8. Print\n"
-                "8. exit\n"
+                "9. exit\n"
                 "Enter choice: ");
         scanf("%d", &ch);
         
@@ -206,6 +206,6 @@ int main(){
                 
             case 9:
                 exit(0);
-        }a
+        }
     }
 }
