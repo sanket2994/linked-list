@@ -1,0 +1,11 @@
+
+Link list library implemented using C.
+The library does the following:
+    1. Add Node at the start of the link list
+    2. Add Node at the end of the link list
+    3. Delete node at the start of the link list
+    4. Delete node at the end of the link list
+    5. Search and delete the node in the link list.
+    6. Search for a node in the link list.
+    7. Reverse the link list.
+    8. Print the link list.
